@@ -1,4 +1,3 @@
-const Swiper = require("swiper")
 var swiper = new Swiper(".mySwiper", {
     slidesPerView: 5,
     spaceBetween: 73,
